@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "444335",
+      "name": "商务 商店 小店 店铺",
+      "font_class": "iconfontdianpu",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1103192",
+      "name": "京东到家2",
+      "font_class": "jingdongdaojia2",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "11579639",
+      "name": "购物车",
+      "font_class": "shoppingCart",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
